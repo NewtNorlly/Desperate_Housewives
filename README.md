@@ -5,9 +5,9 @@
 
 <img src="https://aka.doubaocdn.com/s/qha81wJD9m" alt="Desperate Housewives Official Poster" width="400" align="right">
 
-![GitHub Stars](https://img.shields.io/github/stars/your-username/Desperate-Housewives?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/your-username/Desperate-Housewives?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/your-username/Desperate-Housewives)
+![GitHub Stars](https://img.shields.io/github/stars/NewtNorlly/Desperate_Housewives?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/NewtNorlly/Desperate_Housewives?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/NewtNorlly/Desperate_Housewives)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Language](https://img.shields.io/badge/language-English-green.svg)
 
@@ -68,8 +68,8 @@ Desperate Housewives/
 
 ```bash
 # 1. 克隆完整仓库
-git clone https://github.com/your-username/Desperate-Housewives.git
-cd Desperate-Housewives
+git clone https://github.com/NewtNorlly/Desperate_Housewives.git
+cd Desperate_Housewives
 
 # 2. 直接查看任意一集的台词，例如第一季第一集
 cat Season\ 01/S01E01\ -\ Pilot.txt
@@ -123,7 +123,7 @@ grep -r "secret" Season\ 01/ --ignore-case
 ## 🤝 贡献指南
 
 如果你在使用过程中发现台词有错误、遗漏，或者有更好的整理方式，非常欢迎你参与贡献：
-1. 提交 [Issue](https://github.com/your-username/Desperate-Housewives/issues) 反馈你发现的问题
+1. 提交 [Issue](https://github.com/NewtNorlly/Desperate_Housewives/issues) 反馈你发现的问题
 2. Fork 本仓库，修改内容后提交 Pull Request
 
 ---
@@ -136,6 +136,4 @@ grep -r "secret" Season\ 01/ --ignore-case
 
 > 如果这个仓库对你有帮助，欢迎给个 ⭐ Star 支持一下！
 > 也欢迎分享给更多喜欢《绝望主妇》或者正在学英语的朋友~
-```
-
-
+> Happy happy to lucky ! ! !
